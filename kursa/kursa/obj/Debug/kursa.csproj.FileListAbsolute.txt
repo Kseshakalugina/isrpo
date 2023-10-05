@@ -1,0 +1,84 @@
+C:\Users\ORIGINATION\source\repos\kursa\kursa\bin\Debug\kursa.exe.config
+C:\Users\ORIGINATION\source\repos\kursa\kursa\bin\Debug\kursa.exe
+C:\Users\ORIGINATION\source\repos\kursa\kursa\bin\Debug\kursa.pdb
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.csproj.AssemblyReference.cache
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Properties.Resources.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.csproj.GenerateResource.cache
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.csproj.CoreCompileInputs.cache
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.exe
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.pdb
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.login.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Add.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Category.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Clients.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Contracts.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Invoices.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Manafactures.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Positions.resources
+C:\Users\ORIGINATION\source\repos\kursa\kursa\obj\Debug\kursa.Workers.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.exe.config
+G:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.exe
+G:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.pdb
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.AssemblyReference.cache
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.SuggestedBindingRedirects.cache
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Add.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Category.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Clients.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Contracts.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Invoices.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.login.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Manafactures.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Positions.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Properties.Resources.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Tovar.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Workers.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Zapros.resources
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.GenerateResource.cache
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.CoreCompileInputs.cache
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.exe
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.pdb
+G:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Menu.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.exe.config
+D:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.exe
+D:\ТРЗБД\Курсовая\kursa\kursa\bin\Debug\kursa.pdb
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csprojAssemblyReference.cache
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Add.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Category.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Clients.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Contracts.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Invoices.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.login.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Manafactures.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Menu.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Positions.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Properties.Resources.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Tovar.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Workers.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.Zapros.resources
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.GenerateResource.cache
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.csproj.CoreCompileInputs.cache
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.exe
+D:\ТРЗБД\Курсовая\kursa\kursa\obj\Debug\kursa.pdb
+G:\шлак\3 курс\kursa\kursa\bin\Debug\kursa.exe.config
+G:\шлак\3 курс\kursa\kursa\bin\Debug\kursa.exe
+G:\шлак\3 курс\kursa\kursa\bin\Debug\kursa.pdb
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.csproj.AssemblyReference.cache
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.csproj.SuggestedBindingRedirects.cache
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Add.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Category.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Clients.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Contracts.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Invoices.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.login.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Manafactures.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Menu.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Positions.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Properties.Resources.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Tovar.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Workers.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.Zapros.resources
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.csproj.GenerateResource.cache
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.csproj.CoreCompileInputs.cache
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.exe
+G:\шлак\3 курс\kursa\kursa\obj\Debug\kursa.pdb
